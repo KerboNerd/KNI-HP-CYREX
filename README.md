@@ -20,3 +20,32 @@ to explore other planets with ease using the "CYREX" engines! Based on
  
  This pack will be updated from time to time, so be sure to stick around
  for some cool updates in the future!
+
+------------
+Dependencies
+(Required Mods)
+------------
+
+B9 Part Switch
+Module Manager
+Smart Actuators
+Kerbal Join Reinforcement(Recommended)
+
+------------
+Installation
+------------
+
+1. Open the folder "GameData", that you downloaded
+2. Find your main KSP game folder
+3. Find a folder named "GameData" in you game folder
+4. Copy the two folders from the downloaded "GameData" folder
+5. Place them into the "GameData" folder of you game
+6. Appreciate your hard work.
+
+------------
+Known issues
+------------
+
+* CYREX-S slightly offset from center node. (doesn't affect use)
+* VRTX-1 Jet engine has a problem of not jumping to low thrust mode upon flame-out of the atmospheric jet
+* Tech Tree not yet configured for the parts
