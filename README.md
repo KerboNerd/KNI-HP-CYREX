@@ -68,3 +68,9 @@ Parts in this modpack
 ---------
 Licensing
 ---------
+
+    Any bundled mods are distributed under their own license:
+Community Resource Pack(CRP), by RoverDude is distributed under the 
+Attribution-NonCommercial-ShareAlike 4.0 International license. 
+More details, including source code, can be found here: 
+https://forum.kerbalspaceprogram.com/index.php?/topic/83007-15x-community-resource-pack/
