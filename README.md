@@ -10,7 +10,7 @@ v0.0.2
 
 
 --------------
-**About the pack**
+About the pack
 --------------
 
 This pack includes many Sci-Fi inspired parts for KSP! Take on a journey 
@@ -49,3 +49,22 @@ Known issues
 * CYREX-S slightly offset from center node. (doesn't affect use)
 * VRTX-1 Jet engine has a problem of not jumping to low thrust mode upon flame-out of the atmospheric jet
 * Tech Tree not yet configured for the parts
+
+---------------------
+Parts in this modpack
+---------------------
+
+* HPHFNE-01 "HyperProp" ThermoNuclear engine "CYREX"
+* HPHFNE-02 "HyperProp" ThermoNuclear engine "CYREX-M"
+* HPHFNE-03 "HyperProp" ThermoNuclear engine "CYREX-S"
+* NPTRAM-01 "HyperProp" Neptunium Gas RAM intake
+* HPJT-01 HyperPlutonium Fuselage
+* Prop" CYREX 1.25m/MK1 engine adapter
+* HPSFA-02 "HyperProp" CYREX MK2 engine adapte
+* HPSFA-01 "HyperProp" CYREX 3.75m engine adapter
+* VRTX-1 "HyperProp" Hyper Plutonium Nuclear Multi-Mode Jet engine
+* NPTINT-01 "HyperProp" Air/ Neptunium gas Super-Sonic intake
+
+---------
+Licensing
+---------
