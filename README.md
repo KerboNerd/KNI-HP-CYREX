@@ -10,7 +10,7 @@ v0.0.2
 
 
 --------------
-About the pack
+**About the pack**
 --------------
 
 This pack includes many Sci-Fi inspired parts for KSP! Take on a journey 
