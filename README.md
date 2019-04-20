@@ -26,10 +26,10 @@ Dependencies
 (Required Mods)
 ------------
 
-B9 Part Switch
-Module Manager
-Smart Actuators
-Kerbal Join Reinforcement(Recommended)
+* B9 Part Switch
+* Module Manager
+* Smart Actuators
+* Kerbal Join Reinforcement(Recommended)
 
 ------------
 Installation
