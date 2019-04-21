@@ -39,7 +39,7 @@ Installation
 2. Find your main KSP game folder
 3. Find a folder named "GameData" in you game folder
 4. Copy the two folders from the downloaded "GameData" folder
-5. Place them into the "GameData" folder of you game
+5. Place them into the "GameData" folder of your game
 6. Appreciate your hard work.
 
 ------------
