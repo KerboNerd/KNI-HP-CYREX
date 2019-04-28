@@ -59,7 +59,7 @@ Parts in this modpack
 * HPHFNE-03 "HyperProp" ThermoNuclear engine "CYREX-S"
 * NPTRAM-01 "HyperProp" Neptunium Gas RAM intake
 * HPJT-01 HyperPlutonium Fuselage
-* Prop" CYREX 1.25m/MK1 engine adapter
+* "HyperProp" CYREX 1.25m/MK1 engine adapter
 * HPSFA-02 "HyperProp" CYREX MK2 engine adapte
 * HPSFA-01 "HyperProp" CYREX 3.75m engine adapter
 * VRTX-1 "HyperProp" Hyper Plutonium Nuclear Multi-Mode Jet engine
