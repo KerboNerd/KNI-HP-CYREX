@@ -5,7 +5,7 @@
 KNI Hyper Propulsion 
 "CYREX" Sci-Fi parts pack
 
-v0.0.2
+v0.0.3
 -------------------------
 
 
